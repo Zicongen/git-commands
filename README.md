@@ -102,5 +102,8 @@ git tag <name>              # Mark a specific commit (e.g., for a release)
 | **Release** | `tag` |
 
 ---
+## 📡 Connection Guide
+See [Connection-Builder.md](Connection-Builder.md) for full Git remote setup instructions.
+---
 
 *Generated with ❤️ — Happy committing!*
